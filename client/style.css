@@ -1,0 +1,26 @@
+body{
+    /* display: flex;
+    flex-direction: column */
+}
+    #uppercontainer{
+    display: flex
+}
+#sidebar{
+    position: relative;
+    /* position:sticky; */
+    right:40px;
+    /* float:right; */
+    /* margin-right:200px; */
+    top:90px;
+    bottom:726px;
+}
+#reviewModel{
+    width:750px;
+    margin-left:40px;
+}
+#simexp{
+    position: absolute;
+    bottom:0;
+    overflow:auto;
+    position: relative;
+}
